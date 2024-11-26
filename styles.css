@@ -6,3 +6,6 @@ body{
 header {
     border: solid 2px #009fff;
 }
+
+section {
+    background: rgb(118 171 199 / 80%);
