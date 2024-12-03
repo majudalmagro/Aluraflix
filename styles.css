@@ -23,3 +23,9 @@ section {
         margin-right: 20px;
     }
     
+    .categoria-vídeos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px; 
+
+    }
